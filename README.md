@@ -1,5 +1,4 @@
 # README
-README!!!
 
 Code file name :: 1st_order_Kuramoto_multiplexing_delay.jl
 
